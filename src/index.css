@@ -1,0 +1,15 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: 'Open Sans', sans-serif;
+}
+html,
+body,
+#root {
+  display: flex;
+  background: linear-gradient(to right, rgb(133, 200, 232), rgb(133, 200, 232));
+  height: 100%;
+  flex-direction: column;
+  justify-content: space-between;
+}

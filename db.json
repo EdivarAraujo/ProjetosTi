@@ -1,0 +1,283 @@
+{
+  "projects": [
+    {
+      "name": "Cftv",
+      "setores": {
+        "id": "13",
+        "name": "Recria Velha"
+      },
+      "category": {
+        "id": "1",
+        "name": "Infraestrutura"
+      },
+      "material": {
+        "id": "2",
+        "name": "Ferragens",
+        "materiais": []
+      },
+      "budget": "500",
+      "cost": 0,
+      "services": [],
+      "id": 4
+    },
+    {
+      "name": "Teste",
+      "budget": "69000",
+      "setores": {
+        "id": "12",
+        "name": "Vacaria"
+      },
+      "category": {
+        "id": "1",
+        "name": "Infraestrutura"
+      },
+      "material": {
+        "id": "4",
+        "name": "Telefonia",
+        "materiais": [
+          {
+            "id": 1,
+            "material": "teste",
+            "medida": {
+              "id": 2,
+              "name": "M"
+            },
+            "qtd": "50",
+            "valor": "500.00"
+          }
+        ]
+      },
+      "cost": 500,
+      "services": [
+        {
+          "name": "Teste",
+          "cost": "500",
+          "description": "teste",
+          "id": "eb051ea5-c560-4ead-8fe7-96d4b69c77dd"
+        }
+      ],
+      "id": 5
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Infraestrutura"
+    },
+    {
+      "id": 2,
+      "name": "Desenvolvimento"
+    },
+    {
+      "id": 3,
+      "name": "Design"
+    },
+    {
+      "id": 4,
+      "name": "Planejamento"
+    }
+  ],
+  "material": [
+    {
+      "id": 1,
+      "tipo": "Cftv"
+    },
+    {
+      "id": 2,
+      "tipo": "Ferragens"
+    },
+    {
+      "id": 3,
+      "tipo": "Redes"
+    },
+    {
+      "id": 4,
+      "tipo": "Telefonia"
+    },
+    {
+      "id": 5,
+      "tipo": "Tubulação"
+    },
+    {
+      "id": 6,
+      "tipo": "Outros"
+    }
+  ],
+  "medidas": [
+    {
+      "id": 1,
+      "unidade": "KG"
+    },
+    {
+      "id": 2,
+      "unidade": "M"
+    },
+    {
+      "id": 3,
+      "unidade": "UN"
+    },
+    {
+      "id": 4,
+      "unidade": "PC"
+    }
+  ],
+  "setores": [
+    {
+      "id": 1,
+      "setor": "Tecnologia da Informação"
+    },
+    {
+      "id": 2,
+      "setor": "Fabrica de Ração"
+    },
+    {
+      "id": 3,
+      "setor": "Almoxarifado"
+    },
+    {
+      "id": 4,
+      "setor": "Escritorio"
+    },
+    {
+      "id": 5,
+      "setor": "Classificação"
+    },
+    {
+      "id": 6,
+      "setor": "Caju"
+    },
+    {
+      "id": 7,
+      "setor": "Ancuri"
+    },
+    {
+      "id": 8,
+      "setor": "Frango"
+    },
+    {
+      "id": 9,
+      "setor": "Oficina"
+    },
+    {
+      "id": 10,
+      "setor": "Agricultura"
+    },
+    {
+      "id": 11,
+      "setor": "Buriti"
+    },
+    {
+      "id": 12,
+      "setor": "Vacaria"
+    },
+    {
+      "id": 13,
+      "setor": "Recria Velha"
+    },
+    {
+      "id": 14,
+      "setor": "Patati"
+    },
+    {
+      "id": 15,
+      "setor": "Indiano"
+    },
+    {
+      "id": 16,
+      "setor": "Recria Nova"
+    },
+    {
+      "id": 17,
+      "setor": "Colorado"
+    },
+    {
+      "id": 18,
+      "setor": "Laboratorio"
+    },
+    {
+      "id": 19,
+      "setor": "Refeitorio"
+    },
+    {
+      "id": 20,
+      "setor": "Outros"
+    }
+  ],
+  "usuarios": [
+    {
+      "email": "w",
+      "password": "w",
+      "id": 1
+    },
+    {
+      "email": "q",
+      "password": "q",
+      "id": 2
+    },
+    {
+      "email": "q",
+      "password": "q",
+      "id": 3
+    },
+    {
+      "email": "tey",
+      "password": "1",
+      "id": 4
+    },
+    {
+      "email": "a",
+      "password": "a",
+      "id": 5
+    },
+    {
+      "email": "aa",
+      "password": "a1",
+      "id": 6
+    },
+    {
+      "email": "teste",
+      "password": "11",
+      "id": 7
+    },
+    {
+      "email": "teste",
+      "password": "11",
+      "id": 8
+    },
+    {
+      "email": "r",
+      "password": "r",
+      "id": 9
+    },
+    {
+      "email": "t",
+      "password": "t",
+      "id": 10
+    },
+    {
+      "email": "teste@teste.com",
+      "password": "123123",
+      "id": 11
+    },
+    {
+      "email": "a",
+      "password": "a",
+      "id": 12
+    },
+    {
+      "email": "y",
+      "password": "y",
+      "id": 13
+    },
+    {
+      "email": "e",
+      "password": "e",
+      "id": 14
+    },
+    {
+      "email": "A",
+      "password": "A",
+      "id": 15
+    }
+  ]
+}
